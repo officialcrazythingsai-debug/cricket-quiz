@@ -15,17 +15,3 @@
     "development": ["last 1 chrome version"]
   }
 }
-```
-Commit ✅
-
----
-
-### Step 5: Verify
-Your repo should now show:
-```
-📁 public/
-   📄 index.html
-📁 src/
-   📄 App.js
-   📄 index.js
-📄 package.json
